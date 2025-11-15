@@ -6,3 +6,5 @@ echo "third line from online";
 
 echo "fourth line from online";
 echo "fourth line from CLI";
+
+echo "Hello World";
